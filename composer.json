@@ -1,0 +1,19 @@
+{
+    "name": "zeyuan/clover",
+    "description": "this is mvc module",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zeyuan\\Clover\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zeyuancv",
+            "email": "zeyuancv@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
